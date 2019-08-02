@@ -70,6 +70,7 @@ class Results extends Component {
             <Link className="btn btn-default btn-lg" to="/saved" role="button">Saved Books</Link>
           </p>
         </Jumbotron>
+        <br /><br />
         <Container>
           <h2>Search Results</h2>
           <List>

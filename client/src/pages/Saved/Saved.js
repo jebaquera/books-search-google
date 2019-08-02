@@ -54,6 +54,7 @@ class Saved extends Component {
               <Link className="btn btn-default btn-lg" to="/saved" role="button">Saved Books</Link>
             </p>
           </Jumbotron>
+          <br /><br />
           <Container>
             <Link to="/">You have no saved books. Click here to find some.</Link>
           </Container>
@@ -71,6 +72,7 @@ class Saved extends Component {
             <Link className="btn btn-default btn-lg" to="/saved" role="button">Saved Books</Link>
           </p>
         </Jumbotron>
+        <br /><br />
         <Container>
           <h2>Saved Books</h2>
           <List>

@@ -57,6 +57,7 @@ class Search extends Component {
             <Link className="btn btn-default btn-lg" to="/saved" role="button">Saved Books</Link>
           </p>
         </Jumbotron>
+        <br /> <br />
         <Container>
           <form>
             <Input
