@@ -45,8 +45,8 @@ class Results extends Component {
       return (
         <div>
           <Jumbotron>
-            <h1 className="display-4">(React) Google Books Search</h1>
-            <p className="lead">Search for and annotate books of interest.</p>
+            <h1 className="display-4">Google Books Search</h1>
+            <p className="lead">Search for and Save Books of Interest.</p>
             <hr className="my-4" />
             <p className="lead">
               <Link className="btn btn-default btn-lg" to="/" role="button">New Search</Link>
@@ -62,8 +62,8 @@ class Results extends Component {
     return (
       <div>
         <Jumbotron>
-          <h1 className="display-4">(React) Google Books Search</h1>
-          <p className="lead">Search for and save books of interest.</p>
+          <h1 className="display-4">Google Books Search</h1>
+          <p className="lead">Search for and Save Books of Interest.</p>
           <hr className="my-4" />
           <p className="lead">
             <Link className="btn btn-default btn-lg" to="/" role="button">New Search</Link>
